@@ -2,6 +2,7 @@
 // reverse() 
 #include <algorithm> 
 #include <iostream> 
+#include<bits/stdc++.h>
 #include <vector> 
 #include <numeric> //For accumulate operation 
 using namespace std; 
